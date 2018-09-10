@@ -1,0 +1,13 @@
+Package: SynthpopDecoinceur
+Type: Package
+Title: X
+Version: 1.0 
+Date: 2018-09-10
+Author: D. Bonnery
+Maintainer: D. Bonnery  <dbonnery@umd.edu>
+Description: Data
+Remotes: tidyverse/magrittr
+Depends: Synthpop
+License: GPL (>= 2)
+LazyLoad: yes
+LazyData: true
