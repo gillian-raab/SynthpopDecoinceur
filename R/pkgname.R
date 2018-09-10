@@ -1,5 +1,5 @@
 #' @details
-#' Some non confidential functions developped for a synthetic data project
+#' Some functions usefull to use together with synthpop
 #' 
 #' @keywords internal
 "_PACKAGE"
